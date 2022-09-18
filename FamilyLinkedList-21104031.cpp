@@ -1,4 +1,4 @@
-// Linked List Exercise 2: Doubly Linked Lists
+// Linked List Assignment 1: Doubly Linked Lists
 #include<bits/stdc++.h>
 using namespace std;
 
