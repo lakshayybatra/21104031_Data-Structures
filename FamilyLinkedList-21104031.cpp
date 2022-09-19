@@ -17,7 +17,7 @@ public:
     }
 };
 
-// Function to add elemets in the list
+// Function to add elements in the list
 void pushBack(Node*& head,Node*& current){
     if(head==NULL){
         head = current;
@@ -47,7 +47,7 @@ void printFamily(Node* head){
     return;
 }
 
-// Maine function
+// Main function
 int main(){
     Node* head = NULL;
     int n;
